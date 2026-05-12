@@ -30,12 +30,12 @@
 
 ¡Hola! Soy Patrick/PatOmen, un desarrollador entusiasta con gran interés en las tecnologías emergentes y la inteligencia artificial.
 
-- 🔭 **Actualmente trabajando en:** MinerIA - Un proyecto innovador relacionado con minería de datos e inteligencia artificial
-- 🌱 **Actualmente aprendiendo:** Lenguajes y frameworks de Machine Learning (Python, TensorFlow, PyTorch, scikit-learn)
-- 👯 **Busco colaborar en:** Proyectos de código abierto relacionados con IA, análisis de datos y desarrollo de software
-- 💬 **Puedes preguntarme sobre:** Desarrollo web, fundamentos de programación y mejores prácticas en desarrollo
-- 📫 **Cómo contactarme:** (patrick.rojaszuluaga@gmail.com)
-- 🎯 **Objetivo:** Contribuir a proyectos que utilicen la tecnología para resolver problemas reales
+ **Actualmente trabajando en:** MinerIA - Un proyecto innovador relacionado con minería de datos e inteligencia artificial
+ **Actualmente aprendiendo:** Lenguajes y frameworks de Machine Learning (Python, TensorFlow, PyTorch, scikit-learn)
+ **Busco colaborar en:** Proyectos de código abierto relacionados con IA, análisis de datos y desarrollo de software
+ **Puedes preguntarme sobre:** Desarrollo web, fundamentos de programación y mejores prácticas en desarrollo
+ **Cómo contactarme:** (patrick.rojaszuluaga@gmail.com)
+ **Objetivo:** Contribuir a proyectos que utilicen la tecnología para resolver problemas reales
 
 ## 🛠️ Stack Tecnológico
 
