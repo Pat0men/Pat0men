@@ -26,16 +26,21 @@
 
 ---
 
-## 📖 Sobre Mí
+## Sobre Mí
 
 ¡Hola! Soy Patrick/PatOmen, un desarrollador entusiasta con gran interés en las tecnologías emergentes y la inteligencia artificial.
 
- **Actualmente trabajando en:** MinerIA - Un proyecto innovador relacionado con minería de datos e inteligencia artificial
- **Actualmente aprendiendo:** Lenguajes y frameworks de Machine Learning (Python, TensorFlow, PyTorch, scikit-learn)
- **Busco colaborar en:** Proyectos de código abierto relacionados con IA, análisis de datos y desarrollo de software
- **Puedes preguntarme sobre:** Desarrollo web, fundamentos de programación y mejores prácticas en desarrollo
- **Cómo contactarme:** (patrick.rojaszuluaga@gmail.com)
- **Objetivo:** Contribuir a proyectos que utilicen la tecnología para resolver problemas reales
+**Actualmente trabajando en:** MinerIA - Un proyecto innovador relacionado con minería de datos e inteligencia artificial
+
+**Actualmente aprendiendo:** Lenguajes y frameworks de Machine Learning (Python, TensorFlow, PyTorch, scikit-learn)
+
+**Busco colaborar en:** Proyectos de código abierto relacionados con IA, análisis de datos y desarrollo de software
+
+**Puedes preguntarme sobre:** Desarrollo web, fundamentos de programación y mejores prácticas en desarrollo
+
+**Cómo contactarme:** patrick.rojaszuluaga@gmail.com
+
+**Objetivo:** Contribuir a proyectos que utilicen la tecnología para resolver problemas reales
 
 ## 🛠️ Stack Tecnológico
 
@@ -73,15 +78,14 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ## 🌟 Proyectos Destacados
 
 <div align="center">
   
-  | Proyecto | Descripción | Tecnologías |
-  |----------|-------------|-------------|
-  | **[Proyecto 1](https://github.com/Pat0men/)** | Descripción breve del proyecto | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-  | **[Proyecto 2](https://github.com/Pat0men/)** | Descripción breve del proyecto | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) |
+  | Proyecto | Estado | Descripción | Tecnologías |
+  |----------|--------|-------------|-------------|
+  | **[MinerIA](https://github.com/Pat0men/)** | En curso | Proyecto innovador de minería de datos e inteligencia artificial | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+  | **[Proyecto 2](https://github.com/Pat0men/)** | Próximamente | Descripción breve del proyecto | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
   
 </div>
 
@@ -91,27 +95,22 @@
 
 <div align="center">
   
-  <!-- Gmail -->
   <a href="mailto:patrick.rojaszuluaga@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/patrick-rojas-g19742004/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <!-- Instagram -->
   <a href="https://instagram.com/pvtrick_rz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   
-  <!-- Discord -->
   <a href="https://discord.com/users/415903856099328010" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   
-  <!-- GitHub -->
   <a href="https://github.com/Pat0men" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
