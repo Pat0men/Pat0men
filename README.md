@@ -57,26 +57,6 @@ Disfruto aprender nuevas herramientas, explorar distintas áreas de la informát
 
 ---
 
-## Áreas de conocimiento
-
-- **Desarrollo de software:** Aplicaciones web, APIs REST, desarrollo frontend y backend.
-- **Datos e inteligencia artificial:** Machine Learning, visión artificial, análisis y procesamiento de datos.
-- **Bases de datos:** Modelado, consultas SQL y gestión de bases de datos relacionales y NoSQL.
-- **Infraestructura y seguridad:** Redes, Linux, servicios Cloud y fundamentos de ciberseguridad.
-- **Ingeniería de software:** Análisis de requerimientos, diseño de sistemas y metodologías ágiles.
-
----
-
-## GitHub
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pat0men&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-
-</div>
-
----
-
 ## Contacto
 
 <div align="center">
@@ -89,9 +69,18 @@ Disfruto aprender nuevas herramientas, explorar distintas áreas de la informát
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
+  <a href="https://instagram.com/pvtrick_rz" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />  
+  </a>
+
+  <a href="https://discord.com/users/415903856099328010" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> 
+  </a>
+
   <a href="https://github.com/Pat0men">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  
 
 </div>
 
