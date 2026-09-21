@@ -30,14 +30,12 @@ Disfruto aprender nuevas herramientas, explorar distintas áreas de la informát
 ---
 
 
-
 ## Tecnologías y herramientas
 
 ### Lenguajes
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,php,cpp,r,dart&theme=dark" alt="Lenguajes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="48" height="48" alt="SQL" />
 </p>
 
 ### Desarrollo de software
@@ -49,25 +47,22 @@ Disfruto aprender nuevas herramientas, explorar distintas áreas de la informát
 ### Bases de datos e inteligencia artificial
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,tensorflow,sklearn,opencv&theme=dark" alt="Bases de datos e IA" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,tensorflow,sklearn,opencv&theme=dark" alt="Bases de datos e inteligencia artificial" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="48" height="48" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" alt="Power BI" />
 </p>
 
 ### Infraestructura y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman&theme=dark" alt="Infraestructura" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman&theme=dark" alt="Infraestructura y herramientas" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="Google Colab" />
 
-  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" alt="Jupyter Notebook" />
 </p>
-
 ---
 
 ## Contacto
