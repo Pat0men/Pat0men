@@ -1,128 +1,104 @@
+
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&reversal=true" />
-</div>
 
-<h1 align="center">
-  ¡Hola! Soy Patrick 👋
-</h1>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:0D1117,100:1F6FEB" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnología;Siempre+aprendiendo+nuevas+cosas;¡Si+necesitas+ayuda%2C+avísame!&;size=22" alt="Typing SVG" />
-  </a>
-</p>
+  <h1>Hola, soy Patrick 👋</h1>
 
-<p align="center">
+  <h3>Ingeniería en Informática | Desarrollo de Software</h3>
+
+  <p>
+    Desarrollo de software · Inteligencia Artificial · Tecnología
+  </p>
+
   <a href="https://github.com/Pat0men">
-    <img src="https://komarev.com/ghpvc/?username=Pat0men&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitas" />
+    <img src="https://komarev.com/ghpvc/?username=Pat0men&label=Visitas&color=1F6FEB&style=flat" alt="Visitas al perfil" />
   </a>
-  <a href="https://github.com/Pat0men?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pat0men?label=Followers&style=social" alt="Seguidores" />
-  </a>
-  <a href="https://github.com/Pat0men?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositorios-10-blue?style=flat" alt="Repositorios" />
-  </a>
+
+</div>
+
+<br>
+
+## Sobre mí
+
+Soy **ingeniero informático** con conocimientos en desarrollo de software, inteligencia artificial, bases de datos, infraestructura tecnológica y ciberseguridad.
+
+Me interesa diseñar y desarrollar soluciones que integren diferentes tecnologías para resolver problemas reales. Cuento con experiencia en desarrollo web, programación backend, análisis de datos, redes y servicios Cloud.
+
+Disfruto aprender nuevas herramientas, explorar distintas áreas de la informática y enfrentar desafíos que me permitan seguir creciendo profesionalmente.
+
+---
+
+## Tecnologías y herramientas
+
+### Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,cpp,r&theme=dark" alt="Lenguajes de programación" />
+</p>
+
+### Desarrollo de software
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,django,flask,html,css,bootstrap&theme=dark" alt="Tecnologías de desarrollo" />
+</p>
+
+### Bases de datos e inteligencia artificial
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,tensorflow,sklearn,opencv&theme=dark" alt="Bases de datos e inteligencia artificial" />
+</p>
+
+### Infraestructura y herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark" alt="Infraestructura y herramientas" />
 </p>
 
 ---
 
-## Sobre Mí
+## Áreas de conocimiento
 
-¡Hola! Soy Patrick/PatOmen, un desarrollador entusiasta con gran interés en las tecnologías emergentes y la inteligencia artificial.
+- **Desarrollo de software:** Aplicaciones web, APIs REST, desarrollo frontend y backend.
+- **Datos e inteligencia artificial:** Machine Learning, visión artificial, análisis y procesamiento de datos.
+- **Bases de datos:** Modelado, consultas SQL y gestión de bases de datos relacionales y NoSQL.
+- **Infraestructura y seguridad:** Redes, Linux, servicios Cloud y fundamentos de ciberseguridad.
+- **Ingeniería de software:** Análisis de requerimientos, diseño de sistemas y metodologías ágiles.
 
-**Actualmente trabajando en:** MinerIA - Un proyecto innovador relacionado con minería de datos e inteligencia artificial
+---
 
-**Actualmente aprendiendo:** Lenguajes y frameworks de Machine Learning (Python, TensorFlow, PyTorch, scikit-learn)
-
-**Busco colaborar en:** Proyectos de código abierto relacionados con IA, análisis de datos y desarrollo de software
-
-**Puedes preguntarme sobre:** Desarrollo web, fundamentos de programación y mejores prácticas en desarrollo
-
-**Cómo contactarme:** patrick.rojaszuluaga@gmail.com
-
-**Objetivo:** Contribuir a proyectos que utilicen la tecnología para resolver problemas reales
-
-## 🛠️ Stack Tecnológico
-
-### 💻 Lenguajes de Programación
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🤖 Inteligencia Artificial & ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🌐 Desarrollo Web
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Bases de Datos
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=for-the-badge&logo=redis&logoColor=white)
-
-### ⚙️ Herramientas & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 🌟 Proyectos Destacados
+## GitHub
 
 <div align="center">
-  
-  | Proyecto | Estado | Descripción | Tecnologías |
-  |----------|--------|-------------|-------------|
-  | **[MinerIA](https://github.com/Pat0men/)** | En curso | Proyecto innovador de minería de datos e inteligencia artificial | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
-  | **[Proyecto 2](https://github.com/Pat0men/)** | Próximamente | Descripción breve del proyecto | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
-  
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pat0men&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+
 </div>
 
 ---
 
-## 📫 Contáctame
+## Contacto
 
 <div align="center">
-  
-  <a href="mailto:patrick.rojaszuluaga@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+  <a href="mailto:patrick.rojaszuluaga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/patrick-rojas-g19742004/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://www.linkedin.com/in/patrick-rojas-g19742004/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="https://instagram.com/pvtrick_rz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <a href="https://github.com/Pat0men">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  
-  <a href="https://discord.com/users/415903856099328010" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  
-  <a href="https://github.com/Pat0men" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
+
 </div>
 
----
+<br>
 
 <div align="center">
-  
-  ### ⭐ Si te gusta lo que hago, ¡déjame una estrella en mis repositorios!
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&reversal=false" />
-  
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0D1117,100:1F6FEB" />
+
 </div>
