@@ -36,7 +36,7 @@ Disfruto aprender nuevas herramientas, explorar distintas áreas de la informát
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,php,cpp,r,dart&theme=dark" alt="Lenguajes de programación" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="SQL" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sql&theme=dark" alt="SQL" />
 </p>
 
 ### Desarrollo de software
@@ -49,27 +49,14 @@ Disfruto aprender nuevas herramientas, explorar distintas áreas de la informát
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,tensorflow,sklearn,opencv&theme=dark" alt="Bases de datos e inteligencia artificial" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="48" alt="Keras" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" alt="Power BI" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=keras,powerbi&theme=dark" alt="Keras y Power BI" />
 </p>
 
 ### Infraestructura y herramientas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman&theme=dark" alt="Infraestructura y herramientas" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="48" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" alt="Jupyter Notebook" />
-</p>
-### Bases de datos e inteligencia artificial
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,tensorflow,sklearn,opencv&theme=dark" alt="Bases de datos e inteligencia artificial" />
-</p>
-
-### Infraestructura y herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark" alt="Infraestructura y herramientas" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=colab,jupyter&theme=dark" alt="Google Colab y Jupyter Notebook" />
 </p>
 
 ---
