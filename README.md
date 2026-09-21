@@ -30,33 +30,42 @@ Disfruto aprender nuevas herramientas, explorar distintas áreas de la informát
 ---
 
 
+
 ## Tecnologías y herramientas
 
 ### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,php,cpp,r,dart&theme=dark" alt="Lenguajes de programación" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sql&theme=dark" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,cpp,r,dart&theme=dark" alt="Lenguajes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="48" height="48" alt="SQL" />
 </p>
 
 ### Desarrollo de software
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,django,flask,flutter,html,css,bootstrap&theme=dark" alt="Tecnologías de desarrollo" />
+  <img src="https://skillicons.dev/icons?i=react,fastapi,django,flask,flutter,html,css,bootstrap&theme=dark" alt="Desarrollo de software" />
 </p>
 
 ### Bases de datos e inteligencia artificial
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,tensorflow,sklearn,opencv&theme=dark" alt="Bases de datos e inteligencia artificial" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=keras,powerbi&theme=dark" alt="Keras y Power BI" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,tensorflow,sklearn,opencv&theme=dark" alt="Bases de datos e IA" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="48" height="48" alt="Power BI" />
 </p>
 
 ### Infraestructura y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman&theme=dark" alt="Infraestructura y herramientas" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=colab,jupyter&theme=dark" alt="Google Colab y Jupyter Notebook" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman&theme=dark" alt="Infraestructura" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="Google Colab" />
+
+  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="Anaconda" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook" />
 </p>
 
 ---
